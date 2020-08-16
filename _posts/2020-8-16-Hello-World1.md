@@ -11,4 +11,4 @@ Como segundo tema que definitivamente me llama la atención rotundamente es la i
 <p align="center">
   <img src="images/inteligencia.png" width="350" title="IA">
 </p>
-[<img src="{{ site.baseurl }}/images/inteligencia.png" alt="Inteligencia Artificial" style="width: 400px;"/>]({{ site.baseurl }}/)
+[<img src="{{ site.baseurl }}/images/inteligencia.jpg" alt="Inteligencia Artificial" style="width: 400px;"/>]({{ site.baseurl }}/)
