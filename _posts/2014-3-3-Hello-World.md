@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Temas De Interés
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+ Mi Primer Tema
+ 
+ ## Desarrollo de Aplicaciones Móviles
+ 
+Uno de los temas que realmente quiero aprender próximamente es el desarrollo de aplicaciones móviles, desde el primer momento que descubrí que en la Ingeniería de Software se pueden desarrollar aplicaciones, sentí un gran interés acerca de ello, porque me gustaría saber cómo es todo el proceso que conlleva elaborar una aplicación para los celulares y en un futuro poder desarrollar alguna aplicación por mí mismo.
