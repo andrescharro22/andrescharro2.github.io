@@ -13,3 +13,6 @@ En mi tiempo libre disfruto viendo series o películas junto a mi familia, mucha
 
 Mi gran anhelo es poder culminar mi carrera universitaria, convertirme en un verdadero profesional y cumplir todas mis metas y objetivos que siempre he tenido en mente.
 
+
+
+<img src="https://mandrescharro.github.io//images/69555572.png" alt="Andrés Charro" style="weight: 50%;"/>
