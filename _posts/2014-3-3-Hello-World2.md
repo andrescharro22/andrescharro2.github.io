@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Temas de interés 
+title: Mi Primer Tema de interés 
 ---
 
 Diseño y Arquitectura de Software
