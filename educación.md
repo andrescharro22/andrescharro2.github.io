@@ -12,4 +12,4 @@ He vivido tantos momentos inolvidables en el colegio, uno de ellos fue el día d
 Poco tiempo después postulé para ingresar a la Universidad Estatal en donde fui aceptado, motivo que me llenó de alegría debido a que podría seguir estudiando pero ahora en una institución superior. Actualmente sigo estudiando para la carrera de Ingeniería en Software y espero cumplir mi meta la cual es obtener mi título universitario en un futuro y tener un trabajo estable.
 
 
-<img src="https://mandrescharro.github.io//images/graduacion.jpg" alt="Mi graduación" style="weight: 50%;"/>
+<img src="https://mandrescharro.github.io//images/foto graduacion.jpg" alt="Mi graduación" style="weight: 50%;"/>
