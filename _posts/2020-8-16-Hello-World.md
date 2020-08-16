@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tercer Tema De Interés
+title: Tercer Tema
 ---
 
 
