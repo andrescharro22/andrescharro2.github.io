@@ -15,4 +15,4 @@ Mi gran anhelo es poder culminar mi carrera universitaria, convertirme en un ver
 
 
 
-<img src="https://mandrescharro.github.io//images/69555572.png" alt="Andrés Charro" style="weight: 50%;"/>
+<center><img src="https://mandrescharro.github.io//images/69555572.png" alt="Andrés Charro" style="weight: 50%;"/></center>
