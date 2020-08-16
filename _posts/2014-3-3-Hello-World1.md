@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mi Segundo Tema de Interés 
+title: Segundo Tema de Interés 
 ---
 
 Inteligencia Artificial
