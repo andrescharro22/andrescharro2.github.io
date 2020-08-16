@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Primer Tema de Interés 
+title: Primer Tema 
 ---
 
 Diseño y Arquitectura de Software
